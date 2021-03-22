@@ -21,3 +21,11 @@ npm run build
 
  - [x] O usuário pode digitar em um campo de entrada o número de parágrafos de lorem ipsum a ser gerado
  - [x] O uso pode ver os parágrafos gerados de lorem ipsum e é capaz de copiá-los
+
+> início
+
+![Home](https://github.com/bruno-ralmeida/bin2decimal/blob/main/image-project/home.png?raw=true)
+
+> Resultado
+
+![Result](https://github.com/bruno-ralmeida/bin2decimal/blob/main/image-project/result.png?raw=true)
