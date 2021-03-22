@@ -24,8 +24,8 @@ npm run build
 
 > início
 
-![Home](https://github.com/bruno-ralmeida/bin2decimal/blob/main/image-project/home.png?raw=true)
+![Home](https://github.com/bruno-ralmeida/lorem-ipsum-generator/blob/main/image-project/home.png?raw=true)
 
 > Resultado
 
-![Result](https://github.com/bruno-ralmeida/bin2decimal/blob/main/image-project/result.png?raw=true)
+![Result](https://github.com/bruno-ralmeida/lorem-ipsum-generator/blob/main/image-project/result.png?raw=true)
